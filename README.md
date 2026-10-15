@@ -1,9 +1,9 @@
 # Little Hero Recovery Kit for Cold and Flu
 
-This is a complete, print-ready, kid-friendly "Feel-Better Care Kit" checklist designed as a 4×4 grid. Below you will find the design specifications followed by a self-contained, copy-pasteable HTML/CSS file with custom kawaii-style vector illustrations for all 16 items.
-Design System & Art Direction
+This is a complete, print-ready, kid-friendly "Feel-Better Care Kit" [checklist](checklist.pdf) designed as a 4×4 grid. 
 
 ## Design Specs
+
 ### Theme: 
 "Little Hero Get-Well Kit" — friendly, comforting, custom kawaii-style vector illustrations and approachable to reduce illness-related anxiety. 
 
