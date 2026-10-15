@@ -20,6 +20,7 @@ This is a complete, print-ready, kid-friendly "Feel-Better Care Kit" [checklist]
 - Large circular check-bubbles for kids to stamp or color in with crayons.
 - Cheerful kawaii vector illustrations with smiling faces on each item.
 - Reassuring micro-copy under each technical term.
+- Space at the bottom for any notes
 
 
 *Lamination Tip*: Laminate the printed sheet and tape it inside the medicine cabinet or kitchen pantry; kids can check items off using a dry-erase marker whenever someone is unwell.
