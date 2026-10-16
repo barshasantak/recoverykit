@@ -5,7 +5,7 @@ This is a complete, print-ready, kid-friendly "Feel-Better Care Kit" [checklist]
 ## Design Specs
 
 ### Theme: 
-"Little Hero Recovery Kit" — friendly, comforting, custom kawaii-style vector illustrations and approachable to reduce illness-related anxiety. 
+"Little Hero Recovery Kit" — friendly, comforting, approachable with custom kawaii-style vector illustrations to help reduce illness-related anxiety. 
 
 ### Palette:
 - Mint Green (#E8F5E9) & Sky Blue (#E1F5FE): Clean, calming baseline.
