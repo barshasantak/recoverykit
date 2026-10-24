@@ -1,6 +1,6 @@
 # Little Hero Recovery Kit for Cold and Flu
 
-This is a complete, one-pager, print-ready, kid-friendly "Feel-Better Recovery Kit" [checklist](checklist.pdf) designed as a 4×4 grid. 
+This is a complete, one-pager, print-ready, kid-friendly "Feel-Better Recovery Kit" **[checklist](checklist.pdf)** designed as a 4×4 grid. 
 
 ## Design Specs
 
