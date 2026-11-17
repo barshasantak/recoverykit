@@ -24,3 +24,11 @@ This is a complete, one-pager, print-ready, kid-friendly "Feel-Better Recovery K
 
 
 *Lamination Tip*: Laminate the printed sheet and tape it inside the medicine cabinet or kitchen pantry; kids can check items off using a dry-erase marker whenever someone is unwell.
+
+ <br>
+ 
+ <hr>
+ 
+ <small>*© 2026 Santak Das, Tara Design Studio. All rights reserved.*</small>
+
+ <br>
