@@ -2,6 +2,10 @@
 
 This is a complete, one-pager, print-ready, kid-friendly "Feel-Better Recovery Kit" **[checklist](checklist.pdf)** designed as a 4×4 grid. 
 
+![checklist](https://github.com/barshasantak/recoverykit/blob/main/checklist.png)
+
+ <br>
+ 
 ## Design Specs
 
 ### Theme: 
