@@ -8,9 +8,14 @@ This is a complete, one-pager, print-ready, kid-friendly "Feel-Better Recovery K
 "Little Hero Recovery Kit" — friendly, comforting, approachable with custom kawaii-style vector illustrations to help reduce illness-related anxiety. 
 
 ### Palette:
-- Mint Green (#E8F5E9) & Sky Blue (#E1F5FE): Clean, calming baseline.
-- Butter Yellow (#FFF9C4) & Soft Coral (#FFE0B2): Warmth, energy, and comfort.
-- Slate Ink (#37474F): Soft dark tone for outlines instead of harsh pure black.
+
+| Swatch | Color | Hex | Usage |
+| :--- | :--- | :--- | :--- |
+| ![Mint Green](https://placehold.co/16x16/E8F5E9/E8F5E9.png) | Mint Green | `#E8F5E9` | Clean, calming baseline |
+| ![Sky Blue](https://placehold.co/16x16/E1F5FE/E1F5FE.png) | Sky Blue | `#E1F5FE` | Clean, calming baseline |
+| ![Butter Yellow](https://placehold.co/16x16/FFF9C4/FFF9C4.png) | Butter Yellow | `#FFF9C4` | Warmth, energy, and comfort |
+| ![Soft Coral](https://placehold.co/16x16/FFE0B2/FFE0B2.png) | Soft Coral | `#FFE0B2` | Warmth, energy, and comfort |
+| ![Slate Ink](https://placehold.co/16x16/37474F/37474F.png) | Slate Ink | `#37474F` | Soft dark tone for outlines |
 
 ### Typography: Rounded, playful sans-serif (Fredoka / Nunito / Quicksand style).
 
