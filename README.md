@@ -18,7 +18,7 @@ This is a complete, one-pager, print-ready, kid-friendly "Feel-Better Recovery K
 
 ### Child-Friendly Features:
 - Large circular check-bubbles for kids to stamp or color in with crayons.
-- Cheerful kawaii vector illustrations with smiling faces on each item.
+- Cheerful kawaii-style vector illustrations with smiling faces on each item.
 - Reassuring micro-copy under each technical term.
 - Space at the bottom for any notes
 
@@ -32,3 +32,4 @@ This is a complete, one-pager, print-ready, kid-friendly "Feel-Better Recovery K
  <small>*© 2026 Santak Das, Tara Design Studio. All rights reserved.*</small>
 
  <br>
+ 
